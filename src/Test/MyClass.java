@@ -2,6 +2,7 @@ package Test;
 
 public class MyClass {
     public static void main(String[] args) {
+        My s1=new My(6);
         My s=new My(5);
         System.out.println(My.getCount());
     }
