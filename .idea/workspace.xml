@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14bbd94f-3b0b-46ca-8090-99332976b01b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/APIdemo/CmpareDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/APIdemo/TestString2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/TestDay07/CreditAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/TestDay07/CreditAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/workspace/TestDay07/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/workspace/TestDay07/SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestDay07/TestShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestDay07/TestShape.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,48 +20,40 @@
     <option name="myElementSize" value="70" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/APIdemo/CmpareDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/APIdemo/ConcatDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/APIdemo/StringCharAt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString2.java">
+        <entry file="file://$PROJECT_DIR$/src/TestDay07/TestShape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <folding>
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#760#761#0" expanded="true" />
+                <element signature="e#784#785#0" expanded="true" />
+                <element signature="e#871#872#0" expanded="true" />
+                <element signature="e#894#895#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#1021#1022#0" expanded="true" />
+                <element signature="e#1048#1049#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1149#1150#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,9 +108,7 @@
         <option value="$PROJECT_DIR$/src/Abstract/AbstractDemo.java" />
         <option value="$PROJECT_DIR$/src/Test/TestDemo.java" />
         <option value="$PROJECT_DIR$/src/Test/MyClas.java" />
-        <option value="$PROJECT_DIR$/src/Test/MyClass.java" />
         <option value="$PROJECT_DIR$/src/TestDay07/TestAccount.java" />
-        <option value="$PROJECT_DIR$/src/TestDay07/TestShape.java" />
         <option value="$PROJECT_DIR$/src/TestDay07/TestStudent.java" />
         <option value="$PROJECT_DIR$/src/Day11/Interface.java" />
         <option value="$PROJECT_DIR$/src/Day11/InterfaceDemo.java" />
@@ -133,13 +121,15 @@
         <option value="$PROJECT_DIR$/src/APIdemo/TestString3.java" />
         <option value="$PROJECT_DIR$/src/APIdemo/CmpareDemo.java" />
         <option value="$PROJECT_DIR$/src/APIdemo/ConcatDemo.java" />
+        <option value="$PROJECT_DIR$/src/Test/MyClass.java" />
+        <option value="$PROJECT_DIR$/src/TestDay07/TestShape.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="13" />
     <option name="y" value="7" />
-    <option name="width" value="909" />
+    <option name="width" value="999" />
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -148,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -161,24 +152,17 @@
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="APIdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552390374055" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552396136315" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -204,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConcatDemo">
+  <component name="RunManager" selected="Application.TestShape">
     <configuration name="CmpareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="APIdemo.CmpareDemo" />
       <module name="workspace" />
@@ -231,12 +215,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="APIdemo.TestString1" />
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.MyClass" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APIdemo.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="APIdemo.TestString2" />
+    <configuration name="TestShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDay07.TestShape" />
       <module name="workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="APIdemo.*" />
+          <option name="PATTERN" value="TestDay07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestShape" />
+        <item itemvalue="Application.MyClass" />
         <item itemvalue="Application.ConcatDemo" />
         <item itemvalue="Application.CmpareDemo" />
         <item itemvalue="Application.TestString3" />
-        <item itemvalue="Application.TestString2" />
-        <item itemvalue="Application.TestString1" />
       </list>
     </recent_temporary>
   </component>
@@ -305,17 +289,19 @@
       <workItem from="1552093526162" duration="5340000" />
       <workItem from="1552269172888" duration="18351000" />
       <workItem from="1552351163302" duration="3470000" />
-      <workItem from="1552356679407" duration="22049000" />
+      <workItem from="1552356679407" duration="23219000" />
+      <workItem from="1552393717868" duration="2399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93572000" />
+    <option name="totallyTimeSpent" value="97141000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="13" y="7" width="909" height="1000" extended-state="0" />
+    <frame x="13" y="7" width="999" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2638398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21299255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -324,7 +310,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2182448" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2182448" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39907727" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -395,13 +381,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day9/Polymorphism.java" />
-    <entry file="file://$PROJECT_DIR$/src/Day9/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day9/Role.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -416,26 +395,6 @@
             <element signature="e#297#298#0" expanded="true" />
             <element signature="e#337#338#0" expanded="true" />
             <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/TestDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test/MyClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -501,21 +460,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestDay07/TestStudent.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestDay07/Role.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TestDay07/TestAnimal.java">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestDay07/TestShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/workspace.iml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -688,10 +634,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/APIdemo/CmpareDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+        <state relative-caret-position="575">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/APIdemo/StringCharAt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -702,24 +662,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/APIdemo/StringCharAt.java">
+    <entry file="file://$PROJECT_DIR$/src/APIdemo/CmpareDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="150">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString1.java">
+    <entry file="file://$PROJECT_DIR$/src/Test/MyClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+        <state relative-caret-position="100">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/APIdemo/TestString2.java">
+    <entry file="file://$PROJECT_DIR$/src/TestDay07/Role.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        <state relative-caret-position="-1351">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/TestDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestDay07/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day9/TestStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestDay07/TestShape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#894#895#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#1021#1022#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
