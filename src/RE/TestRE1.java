@@ -46,7 +46,7 @@ public class TestRE1 {
             //"[.*a-z].*" 数字无论在哪个位置
             index++;
         }
-        if (password.matches(".* .*")) {
+        if (password.matches(".*.*")) {
             // .任意字符 *什么都没有
             //"[.*a-z].*" 空格无论在哪个位置
             index++;

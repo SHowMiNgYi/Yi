@@ -10,6 +10,6 @@ public class TestRE {
         Scanner sc=new Scanner(System.in);
         String str=sc.next();
 
-        System.out.println(str.matches("-?0\\.\\d+|-?[1-9]\\d*\\.\\d+"));
+        System.out.println(str.matches("-?0\\.\\d+")|str.matches("|-?[1-9]\\d*\\.\\d+"));
     }
 }
