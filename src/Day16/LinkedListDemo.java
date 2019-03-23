@@ -16,7 +16,7 @@ class LinkedListTest {
     private Node first;
     private Node last;
 
-    public LinkedListTest(){
+    public LinkedListTest() {
 
     }
 
@@ -60,12 +60,14 @@ class LinkedListTest {
         }
         return no;
     }
+
     //**越界判断方法
     public void out(int index) {
         if (index >= size || index < 0) {
             throw new IndexOutOfBoundsException("越界");
         }
     }
+
     //插入元素
     public void add(int index, String str) {
         if (index > size || index < 0) {
@@ -135,9 +137,9 @@ class LinkedListTest {
     //删除指定的字符串
     public void remove(String str) {
         //首次出现的索引
-        int i=indexOf(str);
+        int i = indexOf(str);
         //找到字符串=1
-        if (i!=-1){
+        if (i != -1) {
             remove(i);
         }
     }
@@ -153,37 +155,41 @@ class LinkedListTest {
                 return i;
             }
             //往下走
-            no=no.next;
+            no = no.next;
         }
         return -1;
     }
 
     //清空
-    public void clear(){
-        this.first=this.last=null;
-        size=0;
+    public void clear() {
+        this.first = this.last = null;
+        size = 0;
     }
+
     //查看链表中是否包含对应的字符串
-    public boolean contains(String str){
-        return indexOf(str)!=-1;
+    public boolean contains(String str) {
+        return indexOf(str) != -1;
     }
+
     //获取索引对应的字符串
-    public String get(int index){
+    public String get(int index) {
         this.out(index);
-        return  getNode(index).data;
+        return getNode(index).data;
     }
     //修改索引处的内容
 
-    public void set(int index,String str){
+    public void set(int index, String str) {
         this.out(index);
-        getNode(index).data=str;
+        getNode(index).data = str;
     }
+
     //是否为空
-    public boolean isEmpty(){
-        return size==0;
+    public boolean isEmpty() {
+        return size == 0;
     }
+
     //实际长度
-    public int size(){
+    public int size() {
         return size;
     }
 
@@ -198,22 +204,23 @@ class LinkedListTest {
         //创建子列表,长度指定toIndex - formIndex
         LinkedListTest llt = new LinkedListTest();
         //获取formIndex处的结点
-        Node no=getNode(formIndex);
+        Node no = getNode(formIndex);
         for (int i = formIndex; i < toIndex; i++) {
             llt.add(no.data);
-            no=no.next;
+            no = no.next;
         }
         return llt;
     }
+
     //重写toString
-    public String toString(){
-        StringBuilder sb=new StringBuilder();
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
         sb.append("[");
-        Node no=this.first;
-        for (int i = 0; i <size ; i++) {
-            if(i==(size-1)){
+        Node no = this.first;
+        for (int i = 0; i < size; i++) {
+            if (i == (size - 1)) {
                 sb.append(no.data);
-            }else {
+            } else {
                 sb.append(no.data).append(", ");
             }
         }
